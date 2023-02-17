@@ -1,0 +1,16 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_name.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
